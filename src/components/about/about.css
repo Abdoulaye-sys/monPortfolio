@@ -61,7 +61,7 @@
     font-size: 0.96rem;
 }
 
-.about_card small {
+.about__card small {
     font-size: 0.7rem;
     color:var(--color-light);
 }
