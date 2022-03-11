@@ -5,7 +5,7 @@ import {FiInstagram} from 'react-icons/fi'
 
 const Footer = () => {
   return (
-    <Footer>
+    <footer>
       <a href='#' className='footer__logo'>ABDOULAYE</a>
 
       <ul className='permalinks'>
@@ -20,7 +20,11 @@ const Footer = () => {
         <a href='https://facebook.com'><FaFacebook/></a>
         <a href='https://instagram.com'><FiInstagram/></a>
       </div>
-    </Footer>
+
+      <div className='footer__copyright'>
+        <small>&copy; Abdoulaye Portfolio. Tous les droits sont réservés </small>
+      </div>
+    </footer>
   )
 }
 
