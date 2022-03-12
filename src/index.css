@@ -40,7 +40,6 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7 ;
-    background-image: url(../src/assets/bg-texture1.jpg) ;
 }
 
 /* ========== GENERAL STYLES ========== */
@@ -116,6 +115,17 @@ img {
     display: block;
     width: 100%;
     object-fit: cover;
+}
+
+/* ================ MEDIA QUERIES (MEDIUM DEVICES) ===============*/
+@media screen and (max-width: 1024px) {
+    .container {
+        width: var(--container-width-md);
+    }
+
+    .section {
+        margin-top: 6rem;
+    }
 }
 
 /* ========== MEDIA QUERIES (SMALL DEVICES) ======== */

@@ -11,28 +11,28 @@ const Services = () => {
       <div className='services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>Développement Web</h3>
+            <h3>Développement Web et Mobile</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Création d'un site avec Symfony.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Moyen de paiement avec Stripe.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Création d'une application mobile.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Gestion de Base de donnée.</p>
             </li>
 
           </ul>
@@ -49,57 +49,24 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Création d'un clone de Instagram.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Site de Réservation.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
+              <p>Portfolio.</p>
             </li>
 
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
-            </li>
 
           </ul>
-        </article>
-        {/* END OF CONTENT CREATION */}
 
 
-        <article className='service'>
-        <div className='service__head'>
-          <h3>Freelance</h3>
-        </div>
 
-        <ul className='service__list'>
-
-          <li>
-            <BiCheck className='service__list-icon' />
-            <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
-          </li>
-
-          <li>
-            <BiCheck className='service__list-icon' />
-            <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
-          </li>
-
-          <li>
-            <BiCheck className='service__list-icon' />
-            <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
-          </li>
-
-          <li>
-            <BiCheck className='service__list-icon' />
-            <p>Lorem, ipsum dolor sit amet consectetur adipiscing elit.</p>
-          </li>
-
-        </ul>
       </article>
 
         

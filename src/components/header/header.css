@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 150vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -39,7 +39,7 @@ header {
 
 /* ============== ME ============ */
 .me {
-    background: linear-gradient(var (--color-primary), transparent);
+    background: (var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;

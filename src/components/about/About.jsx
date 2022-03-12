@@ -2,13 +2,12 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/abdoulaye_portfolio-ConvertImage.jpg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers}  from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
   return (
     <section id='about'>
-      <h5>Apprendre à me connaître</h5>
+      <h5>Qui suis-je</h5>
       <h2>À propos de moi</h2>
 
       <div className='container about__container'>
@@ -29,22 +28,15 @@ const About = () => {
             </article>
 
               <article className='about__card'>
-                <FiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small>200+ worldwide</small>
-              </article>
-
-
-              <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Projet</h5>
-                <small> 3+ projets complétés</small>
+                <small> 3 projets terminés</small>
               </article>
 
           </div>
 
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,  Ipsum.
+              Développeur full stack certifié avec de l'expérience. Mordu d’informatique, j’ai appris à coder dans divers langages informatiques (Javascript, PHP, Symfony, React Native…) et ai créé des projets personnels, dont un site de réservation pour un agence de voyage . Polyvalent, je maîtrise les différentes étapes techniques de la création d’un site ou d’une application web ; de la compréhension des besoins utilisateurs, au développement frontend et backend en passant par la maintenance. 
             </p>
 
             <a href='#contact' className='btn btn-primary'>Parlons</a>
