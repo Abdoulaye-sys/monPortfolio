@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio-website",
-  "homepage": "https://Abdoulaye-sys.github.io/MonPortfolio.git",
+  "homepage": "https://abdoulaye-sys.github.io/monPortfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
