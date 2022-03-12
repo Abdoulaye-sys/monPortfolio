@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdoulaye_portfolio/static/css/main.12aec216.css",
+    "main.js": "/abdoulaye_portfolio/static/js/main.180c9dcb.js",
+    "static/media/Abdoulaye ba (3).pdf": "/abdoulaye_portfolio/static/media/Abdoulaye ba (3).d3443087a487d49109b7.pdf",
+    "static/media/abdoulaye_portfolio-ConvertImage.jpg": "/abdoulaye_portfolio/static/media/abdoulaye_portfolio-ConvertImage.75e81b4b531a84e61e78.jpg",
+    "static/media/Abdoulaye-home.jpg": "/abdoulaye_portfolio/static/media/Abdoulaye-home.0e0b0d4c7fe5aedf5f26.jpg",
+    "index.html": "/abdoulaye_portfolio/index.html",
+    "main.12aec216.css.map": "/abdoulaye_portfolio/static/css/main.12aec216.css.map",
+    "main.180c9dcb.js.map": "/abdoulaye_portfolio/static/js/main.180c9dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12aec216.css",
+    "static/js/main.180c9dcb.js"
+  ]
+}
